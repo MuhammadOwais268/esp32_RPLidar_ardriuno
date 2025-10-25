@@ -17,7 +17,7 @@
 #endif
 
 // 1. CHANGE these to match your wiring
-const uint8_t LIDAR_GPIO_EN = 19;
+const uint8_t LIDAR_GPIO_EN = 19;//Not avaialable in case of RPLIDAR A1M8 r5
 const uint8_t LIDAR_GPIO_RX = 17;
 const uint8_t LIDAR_GPIO_TX = 16;
 const uint8_t LIDAR_GPIO_PWM = 15;
