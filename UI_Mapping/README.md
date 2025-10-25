@@ -108,8 +108,9 @@ pip install numpy matplotlib
 ```
 
 ### 2. Run Program
-python lidar_visualizer.py
-
+```bash
+python3 hello.py
+```
 ### 3. Configure Your ESP32
 Ensure your ESP32 sends UDP packets to your computer’s IP address on port 4210 in the defined binary format.
 ### 4. Visualize
