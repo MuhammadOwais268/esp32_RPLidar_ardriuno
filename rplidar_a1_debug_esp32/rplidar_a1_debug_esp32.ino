@@ -1,5 +1,5 @@
 // Copyright 2023-2025 KAIA.AI
-//
+// rplidar_a1_debug_esp32.ino
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
 // You may obtain a copy of the License at
